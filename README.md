@@ -6,8 +6,8 @@
 
 ### 🚀 About Me  
 - 👩‍💻 **Manager – Data, Analytics & AI @ HSBC**  
-- 🧠 Experienced in **Product Analytics | Predictive Modeling | Machine Learning | AI Strategy**  
-- 🌱 Currently exploring **NLP, Large Language Models & Generative AI**  
+- 🧠 Experienced in **Product Analytics | Predictive Modeling | Machine Learning | Deep Learning**  
+- 🔍 Currently exploring **NLP, Large Language Models & Generative AI**  
 - 🤝 Open to **collaborations** on **end-to-end AI/ML projects** with real-world impact  
 - 🎯 Passionate about solving **business challenges through data-driven innovation**  
 ---
