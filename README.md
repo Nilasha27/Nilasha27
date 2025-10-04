@@ -43,7 +43,7 @@
 
 ### 📫 Connect with Me  
 
-🌐 [LinkedIn](https://www.linkedin.com/in/nilashaghosh)  
+🌐 [LinkedIn](https://www.linkedin.com/in/nilasha-ghosh-907974212/)  
 📧 [Email Me](mailto:gnilasha@gmail.com)  
 💻 [GitHub](https://github.com/Nilasha27)  
 
