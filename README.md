@@ -41,3 +41,11 @@
 *A collection of data science notebooks & experiments on Generative AI, LLM fine-tuning, and prompt engineering.*  
 
 ---
+
+## 📫 Connect with Me  
+
+🌐 [LinkedIn](https://www.linkedin.com/in/nilashaghosh)  
+📧 [Email Me](mailto:gnilasha@gmail.com)  
+💻 [GitHub](https://github.com/Nilasha27)  
+
+---
