@@ -1,19 +1,18 @@
-# 👋 Hey, I’m Nilasha  
+## 👋 Hey, I’m Nilasha  
 
 💡 *Turning data into intelligence, and intelligence into impact.*  
 
 ---
 
-## 🚀 About Me  
-- **Manager – Data Analytics & AI @ HSBC**  
-- Experienced in **Product Analytics | Predictive Modeling | Machine Learning**  
-- Currently exploring **NLP, Large Language Models & Generative AI**  
-- Open to **collaborations** on **end-to-end AI/ML projects** with real-world impact  
-- Passionate about solving **business challenges through data-driven innovation**  
-
+### 🚀 About Me  
+- 👩‍💻 **Manager – Data, Analytics & AI @ HSBC**  
+- 🧠 Experienced in **Product Analytics | Predictive Modeling | Machine Learning | AI Strategy**  
+- 🌱 Currently exploring **NLP, Large Language Models & Generative AI**  
+- 🤝 Open to **collaborations** on **end-to-end AI/ML projects** with real-world impact  
+- 🎯 Passionate about solving **business challenges through data-driven innovation**  
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 
 **Languages & Tools**  
 `Python` | `SQL` | `Spark` | `Git`  
@@ -26,7 +25,7 @@
 
 ---
 
-## 📂 Featured Projects  
+### 📂 Featured Projects  
 
 🔹 [**Credit Card Propensity Model 2.0**](#)  
 *Advanced ML pipeline to identify customers with high conversion likelihood for credit cards, featuring explainable AI & bias detection.*  
@@ -42,7 +41,7 @@
 
 ---
 
-## 📫 Connect with Me  
+### 📫 Connect with Me  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/nilashaghosh)  
 📧 [Email Me](mailto:gnilasha@gmail.com)  
