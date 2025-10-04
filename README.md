@@ -44,7 +44,7 @@
 ### 📫 Connect with Me  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/nilashaghosh)  
-📧 [Email Me](mailto:gnilasha@gmail.com)  
+📧 [Email Me](mailto: gnilasha@gmail.com)  
 💻 [GitHub](https://github.com/Nilasha27)  
 
 ---
