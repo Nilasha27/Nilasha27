@@ -1,9 +1,43 @@
-- 👋 Hi, I’m Nilasha ! 
-- 👀 I’m currently working as an analyst contributing to unsecured lending strategies in HSBC.
-- 🌱 I'm currently learning DL & NLP.
-- 💞️ I’m looking to collaborate on end-to-end interesting NLP projects.
+# 👋 Hey, I’m Nilasha  
 
-<!---
-Nilasha27/Nilasha27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 *Turning data into intelligence, and intelligence into impact.*  
+
+---
+
+## 🚀 About Me  
+- **Manager – Data Analytics & AI @ HSBC**  
+- Experienced in **Product Analytics | Predictive Modeling | Machine Learning**  
+- Currently exploring **NLP, Large Language Models & Generative AI**  
+- Open to **collaborations** on **end-to-end AI/ML projects** with real-world impact  
+- Passionate about solving **business challenges through data-driven innovation**  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages & Tools**  
+`Python` | `SQL` | `Spark` | `Git`  
+
+**ML/AI**  
+`Scikit-learn` | `LightGBM` | `XGBoost` | `TensorFlow` | `PyTorch` | `Transformers`  
+
+**Domains**  
+📊 Marketing Analytics | 💳 Propensity Models | 🛒 Recommendation Engines | 💬 NLP & Summarization  
+
+---
+
+## 📂 Featured Projects  
+
+🔹 [**Credit Card Propensity Model 2.0**](#)  
+*Advanced ML pipeline to identify customers with high conversion likelihood for credit cards, featuring explainable AI & bias detection.*  
+
+🔹 [**Personalized Recommendation Engine for E-Commerce**](#)  
+*Hybrid recommender system using collaborative + content-based filtering enhanced with NLP embeddings.*  
+
+🔹 [**Customer Feedback NLP Summarizer**](#)  
+*LLM-powered customer voice analysis summarizer for extracting actionable insights from reviews & surveys.*  
+
+🔹 [**AI Portfolio**](#)  
+*A collection of data science notebooks & experiments on Generative AI, LLM fine-tuning, and prompt engineering.*  
+
+---
