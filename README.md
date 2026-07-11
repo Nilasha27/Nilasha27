@@ -7,7 +7,7 @@
 ### 🚀 About Me  
 - 👩‍💻 **Manager – Data, Analytics & AI @ HSBC**  
 - 🧠 Experienced in **Product Analytics | Predictive Modeling | Machine Learning | Deep Learning**  
-- 🔍 Currently exploring **NLP, Large Language Models & Generative AI**  
+- 🔍 Currently exploring **MLOps, Large Language Models, RAG, MCP and Agentic AI**  
 - 🤝 Open to **collaborations** on **end-to-end AI/ML projects** with real-world impact  
 - 🎯 Passionate about solving **business challenges through data-driven innovation**  
 ---
@@ -18,10 +18,10 @@
 `Python` | `SQL` | `Spark` | `Git`  
 
 **ML/AI**  
-`Scikit-learn` | `LightGBM` | `XGBoost` | `TensorFlow` | `PyTorch` | `Transformers`  
+`Scikit-learn` | `LightGBM` | `XGBoost` | `PyTorch` | `Transformers`  
 
 **Domains**  
-📊 Marketing Analytics | 💳 Propensity Models | 🛒 Recommendation Engines | 💬 NLP & Summarization  
+📊 Marketing Analytics | 💳 Propensity Models | 🛒 Recommendation Engines | 💬 Agentic AI Systems 
 
 ---
 
