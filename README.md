@@ -21,23 +21,14 @@
 `Scikit-learn` | `LightGBM` | `XGBoost` | `PyTorch` | `Transformers`  
 
 **Domains**  
-📊 Marketing Analytics | 💳 Propensity Models | 🛒 Recommendation Engines | 💬 Agentic AI Systems 
+📊 Marketing Analytics | 💳 Propensity Models | 🛒 LLM Application | 💬 Agentic AI Systems 
 
 ---
 
 ### 📂 Featured Projects  
 
-🔹 [**Credit Card Propensity Model 2.0**](#)  
-*Advanced ML pipeline to identify customers with high conversion likelihood for credit cards, featuring explainable AI & bias detection.*  
-
-🔹 [**Personalized Recommendation Engine for E-Commerce**](#)  
-*Hybrid recommender system using collaborative + content-based filtering enhanced with NLP embeddings.*  
-
-🔹 [**Customer Feedback NLP Summarizer**](#)  
-*LLM-powered customer voice analysis summarizer for extracting actionable insights from reviews & surveys.*  
-
-🔹 [**AI Portfolio**](#)  
-*A collection of data science notebooks & experiments on Generative AI, LLM fine-tuning, and prompt engineering.*  
+🔹 [**Customer Feedback Intelligence Platform**](#)  
+*LLM-powered customer feedback analysis summarizer for extracting actionable insights from reviews & surveys.*  
 
 ---
 
