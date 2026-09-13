@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nilasha
+## 👋 Hi, I'm Nilasha
 
 💡 **Turning data into intelligence, and intelligence into business impact.**
 
@@ -6,11 +6,11 @@ I'm a Data & Analytics professional with experience in **banking, customer analy
 
 ---
 
-## 🚀 About Me
+###  👩‍💻 About Me
 
-* 👩‍💻 **Manager – Data, Analytics & AI @ HSBC**
-* 📊 **4+ years of experience** in banking analytics and data science
-* 🧠 Experience across **Product Analytics, Customer Analytics, Predictive Modeling & Machine Learning**
+* 💻 **Manager – Data, Analytics & AI @ HSBC**
+* 📊 **5+ years of experience** in banking analytics and data science
+* 🧠 Experience across **Card-Wealth Analytics, Customer Insights, Predictive Modeling & data-driven Strategy Implementation**
 * 🤖 Currently building expertise in **Generative AI, LLM Applications, RAG, MCP, Agentic AI & MLOps**
 * ☁️ Exploring **GCP, BigQuery, LangChain, LangGraph and AI application deployment**
 * 🛠️ Interested in building **end-to-end AI systems** — from data ingestion and modeling to deployment, evaluation and monitoring
@@ -18,21 +18,21 @@ I'm a Data & Analytics professional with experience in **banking, customer analy
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Languages & Data
+#### Languages & Data
 
-`Python` `SQL` `PySpark` `SAS` `Git`
+`Python` `SQL` `PySpark` `SAS` 
 
-### Machine Learning
+#### Machine Learning/ Deep Learning
 
 `Scikit-learn` `LightGBM` `XGBoost` `PyTorch` `Transformers`
 
-### Generative AI
+#### Generative AI
 
 `LLMs` `LangChain` `RAG` `MCP` `Agentic AI` `Prompt Engineering` `Structured Outputs`
 
-### Cloud & Data Engineering
+#### Cloud & Data Engineering
 
 `GCP` `BigQuery` `Dataproc` `Docker` `MLflow`
 
@@ -45,9 +45,9 @@ I'm a Data & Analytics professional with experience in **banking, customer analy
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-### 🔹 Customer Feedback Intelligence Platform
+#### 🔹 Customer Feedback Intelligence Platform
 
 **LLM-powered customer feedback intelligence system** that transforms unstructured customer feedback into actionable business insights.
 
@@ -67,7 +67,7 @@ The platform:
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 I'm currently focused on moving from traditional analytics and ML toward **production-grade AI applications**.
 
@@ -89,7 +89,7 @@ Deployment & MLOps
 
 ---
 
-## 💭 What I'm Interested In
+### 💭 What I'm Interested In
 
 I'm particularly interested in projects at the intersection of:
 
@@ -99,7 +99,7 @@ I enjoy exploring how AI can move beyond prediction and analytics to become part
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Let's Connect
 
 I'm open to collaborating on **end-to-end Data Science, ML and Generative AI projects** with meaningful real-world applications.
 
