@@ -8,13 +8,11 @@ I'm a Data & Analytics professional with experience in **banking, customer analy
 
 ###  👩‍💻 About Me
 
-* 💻 **Manager – Data, Analytics & AI @ HSBC**
-* 📊 **5+ years of experience** in banking analytics and data science
-* 🧠 Experience across **Card-Wealth Analytics, Customer Insights, Predictive Modeling & data-driven Strategy Implementation**
-* 🤖 Currently building expertise in **Generative AI, LLM Applications, RAG, MCP, Agentic AI & MLOps**
+* 💻 **Manager – Data, Analytics & AI @ HSBC | 5+ years in banking analytics & data science**
+* 🧠 Experienced in **Card & Wealth Analytics, Customer Insights, Predictive Modeling & Data-driven Strategy**
+* 🤖 Currently building expertise in **GenAI, LLM Applications, RAG, MCP, Agentic AI & MLOps**
 * ☁️ Exploring **GCP, BigQuery, LangChain, LangGraph and AI application deployment**
-* 🛠️ Interested in building **end-to-end AI systems** — from data ingestion and modeling to deployment, evaluation and monitoring
-* 🎯 Passionate about applying AI to solve **real-world business and customer problems**
+* 🎯 Passionate about **building end-to-end AI solutions for real-world business problems**
 
 ---
 
