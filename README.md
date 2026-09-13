@@ -91,7 +91,7 @@ Deployment & MLOps
 
 I'm particularly interested in projects at the intersection of:
 
-**Data Science × Generative AI × Banking × Customer Intelligence**
+**Data Science × Generative AI × Customer Intelligence × Strategic Decision**
 
 I enjoy exploring how AI can move beyond prediction and analytics to become part of **real decision-making and business workflows**.
 
