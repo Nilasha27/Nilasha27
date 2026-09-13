@@ -45,7 +45,7 @@ I'm a Data & Analytics professional with experience in **banking, customer analy
 
 ### 📂 Featured Projects
 
-#### 🔹 Customer Feedback Intelligence Platform
+#### 🔹 [Customer Feedback Intelligence Platform](https://github.com/Nilasha27/customer-feedback-intelligence.git)
 
 **LLM-powered customer feedback intelligence system** that transforms unstructured customer feedback into actionable business insights.
 
